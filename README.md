@@ -42,7 +42,7 @@ Use the buttons at the top of the sidebar to instantly apply pre-set filters for
 
 **1. "Find Anchors (Safe)"**
 
-![Find Anchors](Output/Find Anchors (Safe).jpeg)
+![Find Anchors](Output/Find_Anchors_(Safe).jpeg)
 
 - **When to use:** You need a bowler for the final over of a close game. You prioritize stopping runs over taking wickets.
 - **What it shows:** High-reliability bowlers (Green) with an economy rate under 7.5.
@@ -50,11 +50,15 @@ Use the buttons at the top of the sidebar to instantly apply pre-set filters for
 
 **2. "Find Wicket Takers"**
 
+![Find Wicket Takers](Output/Find_Wicket_Takers.jpeg)
+
 - **When to use:** The opposition has a set batsman, and you need a breakthrough wicket.
 - **What it shows:** Experienced bowlers who consistently dismiss Top-Order batsmen (Quality Wicket % > 40%).
 - **Scout Tip:** Look for dots high up on the Y-axis.
 
 **3. "Find Hidden Gems"**
+
+![Find Hidden Gems](Output/Find_Hidden_Gems.jpeg)
 
 - **When to use:** You are building a squad on a budget or looking for young talent.
 - **What it shows:** Bowlers with low experience (Red/Orange) but outstanding economy rates (< 7.0).
@@ -103,3 +107,4 @@ If you have specific criteria, adjust the sliders manually:
 - **Reliability matters.** A bowler with 100 innings of data is a safer bet than one with 2 good games.
 
 - **Context is King.** Use this data to create a shortlist, but always confirm with video analysis before signing a player.
+
