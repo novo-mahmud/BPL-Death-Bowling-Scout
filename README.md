@@ -2,6 +2,10 @@
 
 ## **1. Executive Summary**
 
+## System Preview
+
+![BPL-Death-Bowling-Scout Dashboard](Output/dashboard_screenshot.png.jpeg)
+
 ### **What is this App?**
 
 The **BPL Death Bowling Scout** is a data-driven analysis tool designed specifically for the **Bangladesh Premier League (BPL)**. It processes raw ball-by-ball data to evaluate bowlers based on their performance in the "Death Overs" (typically the final 4-6 overs of a match).
@@ -37,6 +41,8 @@ The app provides three unique metrics that you cannot find on standard scoreboar
 Use the buttons at the top of the sidebar to instantly apply pre-set filters for common scouting needs.
 
 **1. "Find Anchors (Safe)"**
+
+![Find Anchors](Output/Find Anchors (Safe).jpeg)
 
 - **When to use:** You need a bowler for the final over of a close game. You prioritize stopping runs over taking wickets.
 - **What it shows:** High-reliability bowlers (Green) with an economy rate under 7.5.
@@ -95,4 +101,5 @@ If you have specific criteria, adjust the sliders manually:
 
 - **Don't trust the Economy Rate blindly.** Always check the **Relative Economy** column to see if the bowler was helped by a bowling-friendly ground.
 - **Reliability matters.** A bowler with 100 innings of data is a safer bet than one with 2 good games.
+
 - **Context is King.** Use this data to create a shortlist, but always confirm with video analysis before signing a player.
