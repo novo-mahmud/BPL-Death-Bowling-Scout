@@ -6,7 +6,7 @@
 
 ![BPL-Death-Bowling-Scout Dashboard](Output/dashboard_screenshot.png.jpeg)
 
-*Visit the link to directly access the web app: ![Live App](https://mwb554-novomahmud.shinyapps.io/BPL_Scouting_Project_2012-26/)*
+*Visit the link to directly access the web app: [Live App](https://mwb554-novomahmud.shinyapps.io/BPL_Scouting_Project_2012-26/)*
 
 ### **What is this App?**
 
@@ -109,5 +109,6 @@ If you have specific criteria, adjust the sliders manually:
 - **Reliability matters.** A bowler with 100 innings of data is a safer bet than one with 2 good games.
 
 - **Context is King.** Use this data to create a shortlist, but always confirm with video analysis before signing a player.
+
 
 
