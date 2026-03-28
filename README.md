@@ -6,7 +6,8 @@
 
 ![BPL-Death-Bowling-Scout Dashboard](Output/dashboard_screenshot.png.jpeg)
 
-### *Visit the link to directly access the web app: [Live App (All BPL Seasons)](https://mwb554-novomahmud.shinyapps.io/BPL_Scouting_Project_2012-26/)*
+### *Visit the link to directly access the web app:* 
+### *[Live App (All BPL Seasons)](https://mwb554-novomahmud.shinyapps.io/BPL_Scouting_Project_2012-26/)*
 ### *[Live App (BPL Seasons from 2021-22 to 2025-26)](https://mwb554-novomahmud.shinyapps.io/BPL_Bowlers/)*
 
 ### **What is this App?**
